@@ -1,6 +1,10 @@
 ## Contexto do negócio:
 Neste projeto será analisado os dados de transações de um e-comerce do Reino Unido com o intuito de identificar os fatores que influenciam a variação da receita ao longo do tempo.
 
+## 📁 Dataset
+
+O dataset utilizado neste projeto não está incluído no repositório devido ao tamanho.
+
 ## Pergunta principal:
 Quais fatores explicam a variação da receita ao longo do tempo? Sazonalidade, um produto específico?
 
