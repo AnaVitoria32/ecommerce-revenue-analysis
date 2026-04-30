@@ -1,30 +1,30 @@
-## Contexto do negócio:
-Neste projeto será analisado os dados de transações de um e-comerce do Reino Unido com o intuito de identificar os fatores que influenciam a variação da receita ao longo do tempo.
+## Business Context:
+This project analyzes transaction data from a UK-based e-commerce company to understand the factors driving revenue fluctuations over time.
 
 ## 📁 Dataset
 
-O dataset utilizado neste projeto não está incluído no repositório devido ao tamanho.
+The dataset used in this project is not included in the repository due to its size.
 
-## Pergunta principal:
-Quais fatores explicam a variação da receita ao longo do tempo? Sazonalidade, um produto específico?
+## Main Question:
+What are the key factors driving revenue fluctuations over time? Are they influenced by seasonality or specific product performance?
 
-## Perguntas secundárias:
-- Existe sazonalidade na receita ao longo do tempo?
-- Algum produto ou categoria impactou mais na variação da receita?
-- Datas comemorativas influenciaram significativamente na receita da empresa?
-- Qual o impacto das devoluções?
-- Algum país influenciou de forma desproporcinal nas vendas?
+## Key Questions:
+- Is there seasonality in revenue over time?
+- Which products or categories impact revenue the most?
+- Do holidays significantly influence sales performance?
+- What is the impact of returns on revenue?
+- Do specific countries contribute disproportionately to sales?
 
-## KPIs utilizados: 
-- Receita total;
-- Número de Pedidos;
-- Ticket médio;
-- Quantidade de itens vendidos;
-- Receita por produto;
-- Receita por país;
-- Txa de devolução.
+## Key Metrics (KPYs): 
+- Total Revenue  
+- Number of Orders  
+- Average Order Value  
+- Quantity of Items Sold  
+- Revenue by Product  
+- Revenue by Country  
+- Return Rate  
 
-## Ferramentas:
+## Tools and Technologies:
 - Python (pandas, matplotlib)
 - Jupyter Notebook
 - VSCode
